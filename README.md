@@ -19,7 +19,7 @@ my experience of developing enterprise applications.
 * Implement CD to the chosen platform.
 * Develop a log analyzer tool.
 * Develop monitoring tool.
-* Develop each one service for real service.
+* Develop each one service to real service.
 
 
 
