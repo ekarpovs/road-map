@@ -20,6 +20,8 @@ my experience of developing enterprise applications.
 * Develop a log analyzer tool.
 * Develop monitoring tool.
 * Develop each one service to real service.
+* Optimize containers - customize a docker image for sharing usage.
+* Optimize CI CD processes.
 
 
 
