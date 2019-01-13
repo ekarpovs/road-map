@@ -23,8 +23,6 @@ my experience of developing enterprise applications.
 * Optimize containers - customize a docker image for sharing usage.
 * Optimize CI CD processes.
 
-
-
 ## Architecture
 
 -----
