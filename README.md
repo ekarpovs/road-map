@@ -15,6 +15,7 @@ my own experience of developing enterprise applications.
 * Investigate and choice CI CD tool for a build, test and deploy - Done!
 * Add CI file to each one - Done!
 * Create CI workflow (base unit tests for each one and e2e tests).
+  ![CI Workflow diagram](ciworkflowdiagram.png)
 * Investigate and choose a platform for deployment.
 * Implement CD to the chosen platform.
 * Develop a log analyzer tool.
