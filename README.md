@@ -4,7 +4,7 @@ Micro Services projects goal, architecture and to do list
 
 This project is inspired by [The Twelve-Factor App](https://12factor.net/),
 [Pattern: Microservice Architecture](https://microservices.io/patterns/microservices.html) and
-my experience of developing enterprise applications.
+my own experience of developing enterprise applications.
 
 ## TO DO list
 
