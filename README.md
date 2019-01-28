@@ -47,21 +47,21 @@ my experience of developing enterprise applications.
 
 ### Folders structure
 
-mcrsrv-postman
-mcrsrv-curl
-clients
-  web-client
-micro-services
-  compose
-  services
-    authentication
-    authentication-admin
-    authorization
-    authorization-admin
-    audit
-    audit-admin
-    logging
-    background
-  gateways  
-    web-app-api-gtw
-    mobile-app-api-gtw
+* mcrsrv-postman
+* mcrsrv-curl
+* clients
+  * web-client
+* micro-services
+  * compose
+  * services
+    * authentication
+    * authentication-admin
+    * authorization
+    * authorization-admin
+    * audit
+    * audit-admin
+    * logging
+    * background
+  * gateways  
+    * web-app-api-gtw
+    * mobile-app-api-gtw
