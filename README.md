@@ -35,10 +35,10 @@ my own experience of developing enterprise applications.
 * A MongoDb database backed by a Docker volume
 * A Redis database backed by a Docker volume
 * A Node.js [Web Application API Gateway](https://github.com/ekarpovs/web-app-api-gtw)
-* A Node.js authentication admin service
-* A Node.js authentication service
-* A Node.js authorization admin service
-* A Node.js authorization service
+* A Node.js [Authentication Admin Service](https://github.com/ekarpovs/authentication-admin)
+* A Node.js [Authentication Service](https://github.com/ekarpovs/authentication)
+* A Node.js [Authorization Admin Service](https://github.com/ekarpovs/authorization-admin)
+* A Node.js [Authorization Service](https://github.com/ekarpovs/authorization)
 * A Node.js audit admin service
 * A Node.js audit service
 * A Node.js logging service
